@@ -1,5 +1,5 @@
 src_path = "/mnt/Omer/Project/14.SuizoAssyuku/data/"
-dst_path = "/mnt/Omer/Project/14.SuizoAssyuku/result/"
+dst_path = "./result/"
 left = 50
 top = 100
 width = 800
